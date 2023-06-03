@@ -1,7 +1,7 @@
 # AED 1
 Exercícios de aprendizado da linguagem C realizados na disciplina **Algoritmos e Estruturas de Dados I** do 1º período do curso de Engenharia de Software da PUC MG.
 
-Durante o semestre, foram realizadas mais de 100 questões envolvendo diversos conceitos da linguagem. Todas estão disponíveis neste repositório.
+Durante o semestre, foram resolvidas mais de 100 questões envolvendo diversos conceitos da linguagem. Todas estão disponíveis neste repositório.
 
 As questões foram elaboradas majoritariamente pelo professor **Humberto Nigri**.
 
