@@ -18,8 +18,8 @@ As questões foram elaboradas majoritariamente pelo professor **Humberto Nigri**
 - Recursividade
 
 ## Estrutura do repositório
-Dentro de cada diretório de cada lista ou roteiro, há um PDF com os enunciados das questões, além dos arquivos `.c` com as resoluções.
+- Dentro de cada diretório de cada lista ou roteiro, há um PDF com os enunciados das questões, além dos arquivos `.c` com as resoluções.
 
-O diretório `/listas` contém os exercícios enviados ao Verde, que é um software utilizado pela PUC MG para correção automática de exercícios.
+- O diretório `/listas` contém os exercícios enviados ao Verde, que é um software utilizado pela PUC MG para correção automática de exercícios.
 
-Já o diretório `/roteiros`, contém exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
+- Já o diretório `/roteiros`, contém os exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
