@@ -22,4 +22,4 @@ As questões foram elaboradas majoritariamente pelo professor **Humberto Nigri**
 
 - O diretório `/listas` contém os exercícios enviados ao Verde, que é um software utilizado pela PUC MG para correção automática de exercícios.
 
-- Já o diretório `/roteiros`, contém os exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
+- Já o diretório `/roteiros` contém os exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
