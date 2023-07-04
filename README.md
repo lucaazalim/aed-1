@@ -20,6 +20,8 @@ As questões foram elaboradas majoritariamente pelo professor **Humberto Nigri**
 ## Estrutura do repositório
 - Dentro de cada diretório de cada lista ou roteiro, há um PDF com os enunciados das questões, além dos arquivos `.c` com as resoluções.
 
-- O diretório `/listas` contém os exercícios enviados ao Verde, que é um software utilizado pela PUC MG para correção automática de exercícios.
+- `/listas`: contém os exercícios enviados ao Verde, que é um software utilizado pela PUC MG para correção automática de exercícios.
 
-- Já o diretório `/roteiros` contém os exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
+- `/roteiros`: contém os exercícios realizados durante as aulas de laboratório e enviados ao professor para correção.
+
+- `/provas`: contém as três provas realizadas durante a disciplina.
